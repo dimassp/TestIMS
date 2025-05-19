@@ -5,6 +5,7 @@
 
 ## Cara running
 - ```git clone https://github.com/dimassp/TestIMS.git```
+- Konfigurasi/buat file .env
 - ```cd TestIMS```
 - ```composer install```
 - ```php artisan migrate```
